@@ -1,5 +1,4 @@
 from guitar import Guitar
-
 def main():
     guitars = []
     print("My guitars!")
