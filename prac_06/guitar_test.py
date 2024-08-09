@@ -1,5 +1,4 @@
 from guitar import Guitar
-
 def main():
     name = "Gibson L-5 CES"
     year = 1922
